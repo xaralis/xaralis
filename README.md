@@ -8,6 +8,7 @@
 
 [![LinkedIn][linkedin-badge]][linkedin]
 [![Facebook][facebook-badge]][facebook]
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][https://stackoverflow.com/users/303184/xaralis]
 
 ### Stuff I like to work with
 
