@@ -1,7 +1,6 @@
 <div align="center">
 
-# 👋👋👋
-# Hi, I'm Filip Vařecha
+# Hi there! 👋 I'm Filip Vařecha
 
 ### A Full-stack Software Engineer that loves challenging projects
 
