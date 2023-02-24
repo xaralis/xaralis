@@ -8,7 +8,7 @@
 
 [![LinkedIn][linkedin-badge]][linkedin]
 [![Facebook][facebook-badge]][facebook]
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][https://stackoverflow.com/users/303184/xaralis]
+[![Stack Overflow][stackoverflow-badge]][stackoverflow]
 
 ### Stuff I like to work with
 
@@ -46,5 +46,7 @@
 
 [linkedin]: https://www.linkedin.com/in/filip-varecha/
 [facebook]: https://www.facebook.com/filip.varecha
+[stackoverflow]: https://stackoverflow.com/users/303184/xaralis
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [facebook-badge]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+[stackoverflow-badge]: https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
