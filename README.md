@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there! 👋 I'm Filip Vařecha
+# 👋 Hi there! I'm Filip Vařecha
 
 ### A Full-stack Software Engineer that loves challenging projects
 
-### I'm looking for some new opportunities so feel free to reach me at xaralis93 'at' gmail 'dot' com
+### I'm looking for some new opportunities at the moment so feel free to reach me at xaralis93 'at' gmail 'dot' com
 
 [![LinkedIn][linkedin-badge]][linkedin]
 [![Facebook][facebook-badge]][facebook]
